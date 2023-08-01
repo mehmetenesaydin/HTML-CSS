@@ -1,2 +1,2 @@
 # HTML-CSS
-This is my first HTML_CSS repository
+This is first HTML_CSS repository
